@@ -1,0 +1,26 @@
+{
+  "name": "palette",
+  "version": "1.0.0",
+  "description": "Hex to RGB & reverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gramanicu/palette.git"
+  },
+  "keywords": [
+    "node",
+    "colors"
+  ],
+  "author": "Grama Nicolae",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/gramanicu/palette/issues"
+  },
+  "homepage": "https://github.com/gramanicu/palette#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
