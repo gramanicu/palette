@@ -1,0 +1,7 @@
+C:\Users\Nicolae\Desktop\Color\Color\bin\Debug\Color.exe
+C:\Users\Nicolae\Desktop\Color\Color\bin\Debug\Color.pdb
+C:\Users\Nicolae\Desktop\Color\Color\obj\x86\Debug\Color.Form1.resources
+C:\Users\Nicolae\Desktop\Color\Color\obj\x86\Debug\Color.Properties.Resources.resources
+C:\Users\Nicolae\Desktop\Color\Color\obj\x86\Debug\Color.csproj.GenerateResource.Cache
+C:\Users\Nicolae\Desktop\Color\Color\obj\x86\Debug\Color.exe
+C:\Users\Nicolae\Desktop\Color\Color\obj\x86\Debug\Color.pdb
